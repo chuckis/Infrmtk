@@ -42,3 +42,5 @@ Type: Lesson
 Источник: [https://nsportal.ru/shkola/informatika-i-ikt/library/2011/12/11/urok-informatiki-v-3-klasse-kompyuternye-seti](https://nsportal.ru/shkola/informatika-i-ikt/library/2011/12/11/urok-informatiki-v-3-klasse-kompyuternye-seti)
 
 **Складові вікна програми-браузера.**
+
+ДЗ параграф 5
