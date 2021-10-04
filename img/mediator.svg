@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg933"
+   inkscape:version="1.1 (1:1.1+202106031931+af4d65493e)"
+   sodipodi:docname="mediator.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview935"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3656843"
+     inkscape:cx="395.40618"
+     inkscape:cy="399.79958"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs930">
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard"
+       inkscape:stockid="Checkerboard">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect2487" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect2489" />
+    </pattern>
+    <linearGradient
+       id="linearGradient3441"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff6800;stop-opacity:1;"
+         offset="0"
+         id="stop3439" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <ellipse
+       style="fill:#ff6800;fill-opacity:0;stroke:#000000;stroke-width:0.327001;paint-order:fill markers stroke"
+       id="path1038"
+       cx="106.80632"
+       cy="74.376572"
+       rx="66.642822"
+       ry="29.213074" />
+    <ellipse
+       style="fill:#ff6800;fill-opacity:0;stroke:#000000;stroke-width:0.327001;paint-order:fill markers stroke"
+       id="path1142"
+       cx="106.16037"
+       cy="172.83337"
+       rx="5.9968719"
+       ry="6.403151" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Слой 2">
+    <path
+       id="path1981"
+       style="fill:none;stroke:#000000;stroke-width:4.02519994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 391.69403,163.83986 c -32.40381,-0.0125 -93.08254,10.04548 -124.13738,20.27167 -39.47902,13.00023 -83.14448,42.36201 -103.30079,64.61308 -31.69611,34.99015 9.06546,157.40755 32.25781,200.10937 31.88132,58.69996 146.63716,221.59637 207.37305,228.43946 52.71779,-8.34123 175.49366,-169.7395 207.375,-228.43946 23.19235,-42.70182 63.95391,-165.11922 32.25781,-200.10937 C 623.3632,226.47354 574.37278,194.74771 534.89377,181.74748 468.10226,163.211 445.39043,163.79093 391.69403,163.83986 Z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="cssscsscc" />
+    <path
+       id="path1981-3"
+       style="mix-blend-mode:multiply;fill:url(#Checkerboard);fill-opacity:1;stroke:#000000;stroke-width:0.813601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 104.34905,56.045212 c -6.677851,-0.0025 -19.182661,1.991487 -25.582513,4.018802 -8.135926,2.57726 -17.134602,8.398152 -21.28846,12.809368 -6.532006,6.936701 1.868231,31.205618 6.647762,39.671128 6.570174,11.63712 30.219318,43.93088 42.735911,45.28751 10.8642,-1.65363 36.16612,-33.65039 42.7363,-45.28751 4.77953,-8.46551 13.17977,-32.734427 6.64776,-39.671128 C 152.09195,68.462166 141.9959,62.172608 133.85997,59.595346 120.09543,55.92054 115.41492,56.03551 104.34905,56.045212 Z"
+       sodipodi:nodetypes="cssscsscc" />
+  </g>
+</svg>
