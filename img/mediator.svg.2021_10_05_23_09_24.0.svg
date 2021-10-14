@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg933"
+   inkscape:version="1.1 (1:1.1+202106031931+af4d65493e)"
+   sodipodi:docname="mediator.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview935"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.96568463"
+     inkscape:cx="395.57428"
+     inkscape:cy="399.71642"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs930">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3431"
+       id="pattern3438"
+       patternTransform="matrix(2.579832,0,0,0.44825708,-101.08851,90.48643)" />
+    <linearGradient
+       id="linearGradient3424"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3422" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4228"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4226" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4011"
+       id="pattern4223"
+       patternTransform="matrix(0.3989548,0,0,0.36608451,2.1684301e-6,-9.5946112e-6)" />
+    <linearGradient
+       id="linearGradient4216"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4214" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4109"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#db0000;stop-opacity:1;"
+         offset="0"
+         id="stop4107" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3441"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff6800;stop-opacity:1;"
+         offset="0"
+         id="stop3439" />
+    </linearGradient>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="36.388111"
+       height="60.031466"
+       patternTransform="translate(376.19604,209.43499)"
+       id="pattern4011">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.7941;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect2011"
+         width="32.305305"
+         height="32.305305"
+         x="18.946745"
+         y="-16.152651"
+         transform="matrix(0.51835802,0.8551637,-0.51835802,0.8551637,0,0)" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="14.517213"
+       height="21.976589"
+       patternTransform="translate(442.11156,339.60081)"
+       id="pattern3431">
+      <rect
+         style="fill:url(#pattern4223);stroke:none;stroke-width:0.382167"
+         width="14.517213"
+         height="21.976589"
+         x="0"
+         y="0"
+         id="rect4014" />
+    </pattern>
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path1981-3,0,1|#path1981,0,1"
+       id="path-effect1823" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <ellipse
+       style="fill:#ff6800;fill-opacity:0;stroke:#000000;stroke-width:0.327001;paint-order:fill markers stroke"
+       id="path1038"
+       cx="106.80632"
+       cy="74.376572"
+       rx="66.642822"
+       ry="29.213074" />
+    <ellipse
+       style="fill:#ff6800;fill-opacity:0;stroke:#000000;stroke-width:0.327001;paint-order:fill markers stroke"
+       id="path1142"
+       cx="106.16037"
+       cy="172.83337"
+       rx="5.9968719"
+       ry="6.403151" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Слой 2"
+     style="display:inline">
+    <path
+       inkscape:original-d="M 0,0"
+       inkscape:path-effect="#path-effect1823"
+       d="M 0,0"
+       id="path1825" />
+    <path
+       id="path1981"
+       style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 0,0 C 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 Z M 0,0 C 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 Z" />
+    <g
+       id="g2015"
+       transform="rotate(17.00557,161.98973,163.32032)">
+      <rect
+         style="fill:url(#pattern3438);stroke:none;stroke-width:1.07537"
+         width="37.451973"
+         height="9.851162"
+         x="-101.08838"
+         y="90.48645"
+         id="rect3434"
+         transform="matrix(-0.98028393,-0.19759407,-0.19759407,0.98028393,0,0)" />
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.997527;paint-order:fill markers stroke"
+         id="path1886"
+         cx="62.278557"
+         cy="109.57039"
+         rx="3.9651129"
+         ry="3.8385973" />
+    </g>
+  </g>
+</svg>
