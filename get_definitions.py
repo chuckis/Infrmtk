@@ -3,7 +3,7 @@ import re
 
 filepaths = []
 
-for root, dirs, files in os.walk("3-k", topdown = False):
+for root, dirs, files in os.walk("4-k", topdown = False):
    for name in files:
        filepaths.append(os.path.join(root, name))
     #   print(os.path.join(root, name))
