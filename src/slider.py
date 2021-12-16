@@ -13,41 +13,53 @@ root.columnconfigure(0, weight=1)
 root.columnconfigure(1, weight=3)
 
 
-# slider current value
-current_value = tk.DoubleVar()
+# slider current x value
+current_x_value = tk.DoubleVar()
 
 
-def get_current_value():
-    return '{: .2f}'.format(current_value.get())
+def get_current_x_value():
+    return 'length {: .2f}'.format(current_x_value.get())
 
 
-def slider_changed(event):
-    value_label.configure(text=get_current_value())
+def slider_x_changed(event):
+    value_label_x.configure(text=get_current_x_value())
 
 
-# label for the slider
-slider_label = ttk.Label(
+# slider current y value
+current_y_value = tk.DoubleVar()
+
+
+def get_current_y_value():
+    return 'height {: .2f}'.format(current_y_value.get())
+
+
+def slider_y_changed(event):
+    value_label_y.configure(text=get_current_y_value())
+
+
+# label for the slider x
+slider_label_x = ttk.Label(
     root,
-    text='Slider:'
+    text='Slider length:'
 )
 
-slider_label.grid(
+slider_label_x.grid(
     column=0,
     row=0,
     sticky='w'
 )
 
-#  slider
-slider = ttk.Scale(
+#  slider x
+slider_x = ttk.Scale(
     root,
     from_=0,
     to=100,
     orient='horizontal',  # vertical
-    command=slider_changed,
-    variable=current_value
+    command=slider_x_changed,
+    variable=current_x_value
 )
 
-slider.grid(
+slider_x.grid(
     column=1,
     row=0,
     sticky='we'
@@ -60,23 +72,61 @@ current_value_label = ttk.Label(
 )
 
 current_value_label.grid(
-    row=1,
+    row=5,
     columnspan=2,
     sticky='n',
     ipadx=10,
     ipady=10
 )
 
-# value label
-value_label = ttk.Label(
+# value label x
+value_label_x = ttk.Label(
     root,
-    text=get_current_value()
+    text=get_current_x_value()
 )
-value_label.grid(
+value_label_x.grid(
     row=2,
     columnspan=2,
     sticky='n'
 )
 
+# label for the slider y
+slider_label_y = ttk.Label(
+    root,
+    text='Slider height:'
+)
+
+slider_label_y.grid(
+    column=0,
+    row=1,
+    sticky='w'
+)
+
+#  slider y
+slider_y = ttk.Scale(
+    root,
+    from_=0,
+    to=100,
+    orient='horizontal',  # vertical
+    command=slider_y_changed,
+    variable=current_y_value
+)
+
+slider_y.grid(
+    column=1,
+    row=1,
+    sticky='we'
+)
+
+# value label y
+value_label_y = ttk.Label(
+    root,
+    text=get_current_y_value()
+)
+value_label_y.grid(
+    row=4,
+    columnspan=2,
+    sticky='n'
+)
 
 root.mainloop()
