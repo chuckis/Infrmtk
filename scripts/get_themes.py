@@ -3,7 +3,7 @@ import re
 
 filepaths = []
 
-for subdir, dirs, files in os.walk("3-k"):
+for subdir, dirs, files in os.walk("6-k"):
     for filename in files:
         filepath = subdir + os.sep + filename
         if filename.startswith("urok"):
