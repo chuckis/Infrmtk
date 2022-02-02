@@ -9,7 +9,7 @@ t.begin_fill()
 
 n = 0
 t.lt(60)
-while n < 50:
+while n < 10:
 
     t.fd(20)
     t.rt(120)
