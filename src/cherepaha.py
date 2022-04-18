@@ -1,22 +1,15 @@
 import turtle
 # import random
 
-s = turtle.getscreen()
-t = turtle.Turtle()
-# t.shape("circle")
-t.pen(pencolor="black", fillcolor="red", pensize=2, speed=9)
-t.begin_fill()
+cherepaha = turtle.Turtle()
 
-n = 0
-t.lt(60)
-while n < 10:
+def vpered(n):
+    return cherepaha.fd(n)
 
-    t.fd(20)
-    t.rt(120)
-    t.fd(20)
-    t.lt(120)
-    
-    n+=1
+def pravoruch(angle):
+    return cherepaha.rt(angle)
 
+def livoruch(angle):
+    return cherepaha.lt(angle)
 
 
