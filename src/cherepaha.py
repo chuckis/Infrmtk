@@ -12,4 +12,6 @@ def pravoruch(angle):
 def livoruch(angle):
     return cherepaha.lt(angle)
 
+c = cherepaha.circle
 
+c(40)
